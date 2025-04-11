@@ -1,0 +1,19 @@
+[
+  {
+    "token": "MTM1NzQ4NDkyMDI4MDE4NzE0Ng.GffATW.9m9SZ-xcLYcPcHm2iX3eWUOVA9OOJ6foamx9c8",
+    "options": {
+      "prefix": "youtube",
+      "embedColor": "#0099ff",
+      "defaultVolume": 50,
+      "maxVolume": 100,
+      "autoplay": false,
+      "defaultPlatform": "!",
+      "buttonsEnabled": true,
+      "embedEnabled": true,
+      "isMainBot": false,
+      "pinnedChannels": [
+        "1359623993136644187"
+      ]
+    }
+  }
+]
